@@ -46,7 +46,7 @@ a:hover{
 }
 
 #button:hover {
-    transform: scale(0.8);
+    transform: scale(1.8);
     background-color: #E6174D;
 }
 
