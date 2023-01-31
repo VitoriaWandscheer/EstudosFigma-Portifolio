@@ -42,14 +42,10 @@ a:hover{
     padding-right: 20px;
     box-shadow: 5px 5px 0px #331832; /* box-shadow: [eixo x] [eixo y] [blur] [collor] */
     margin-right: 0;
-    transition: transform 100ms linear;
-    
 }
 
 #button:hover {
-    transform: scale(1.08);
     background-color: #E6174D;
-
 }
 
 h1 {
