@@ -30,10 +30,6 @@ a::before {
     margin-right: 10px;
 }
 
-a::before:hover {
-    background-color: #331832;
-}
-
 a:hover{
     transform: scale(1.1);
     color: #F1D302;
