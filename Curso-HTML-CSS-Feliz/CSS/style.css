@@ -1,0 +1,64 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: #F77F00;
+    border-bottom: 10px solid #331832;
+    padding: 10px 20px;
+}
+
+nav {
+    text-align: right;
+}
+
+a {
+    display: inline-flex;
+    align-items: center;
+    color: #331832;
+    font-size: 20px;
+    font-family: "Fira Code", sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+a::before {
+    content: "";
+    background-color: #F1D302;
+    width: 10px;
+    height: 10px;
+    margin-right: 10px;
+}
+
+a:hover{
+    color: #F1D302;
+}
+
+#button {
+    display: inline-block;
+    background-color: #F1D302;
+    height: 60px;
+    line-height: 60px;
+    padding-left: 20px;
+    padding-right: 20px;
+    box-shadow: 5px 5px 0px #331832; /* box-shadow: [eixo x] [eixo y] [blur] [collor] */
+    margin-right: 0;
+    
+}
+
+#button:hover {
+    background-color: #E6174D;
+}
+
+h1 {
+    font-family: "Press Start 2P";
+    font-size: 40px;
+}
+
+h2 {
+    font-family: "Press Start 2P";
+    font-size: 30px;
+}
+
+p {
+    font-family: "Fira Code", sans-serif;    
+}
