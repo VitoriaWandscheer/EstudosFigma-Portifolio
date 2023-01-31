@@ -35,7 +35,7 @@ a::before:hover {
 }
 
 a:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
     color: #F1D302;
 }
 
@@ -52,7 +52,7 @@ a:hover{
 }
 
 #button:hover {
-    transform: scale(1.2);
+    transform: scale(1.08);
     background-color: #E6174D;
 }
 
