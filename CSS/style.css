@@ -42,7 +42,7 @@ a:hover{
     line-height: 60px;
     padding-left: 20px;
     padding-right: 20px;
-    box-shadow: 5px 5px 0px #331832; /* box-shadow: [eixo x] [eixo y] [blur] [collor] */
+    box-shadow: 5px 5px 0px #331832;
     margin-right: 0;
     transition: transform 200ms ease-in-out;
 }
