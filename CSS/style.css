@@ -53,13 +53,15 @@ a:hover{
 }
 
 h1 {
-    font-family: "Press Start 2P";
+    font-family: "Press Start 2P", sans-serif;
     font-size: 40px;
+    color: #F1D302;
 }
 
 h2 {
-    font-family: "Press Start 2P";
+    font-family: "Press Start 2P", sans-serif;
     font-size: 30px;
+    color: #F77F00;
 }
 
 p {
