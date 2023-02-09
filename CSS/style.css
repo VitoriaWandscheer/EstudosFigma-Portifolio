@@ -10,31 +10,6 @@ nav {
     text-align: right;
 }
 
-a {
-    display: inline-flex;
-    align-items: center;
-    color: #331832;
-    font-size: 20px;
-    font-family: "Fira Code", sans-serif;
-    font-weight: 500;
-    text-decoration: none;
-    margin-right: 30px;
-    transition: transform 200ms ease-in-out;
-}
-
-a::before {
-    content: "";
-    background-color: #F1D302;
-    width: 10px;
-    height: 10px;
-    margin-right: 10px;
-}
-
-a:hover{
-    transform: scale(1.1);
-    color: #F1D302;
-}
-
 #button {
     display: inline-block;
     background-color: #F1D302;
