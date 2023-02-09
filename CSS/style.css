@@ -56,9 +56,3 @@ p {
     font-family: "Fira Code", sans-serif;    
 }
 
-#box {
-    width: 1208px;
-    height: 184px;
-    background-color: #331832;
-    box-shadow: 10px 10px 0px #000;
-}
