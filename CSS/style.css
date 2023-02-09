@@ -26,3 +26,7 @@ nav {
     transform: scale(1.08);
     background-color: #E6174D;
 }
+
+p {
+    font-family: "Press Start 2P";
+}
