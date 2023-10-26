@@ -1,5 +1,5 @@
 # VitoriaWandscheer.github.io
-Meu primeiro portifólio no Github. Foi produzido ao longo do Curso HTML e CSS feliz (Projeto Portfólio) do Marco Bruno, disponível em seu canal no Youtube.
+Meu primeiro portifólio no Github. Produzido ao longo do Curso HTML e CSS feliz (Projeto Portfólio) do Marco Bruno, disponível em seu canal no Youtube.
 
 ## Recursos Utilizados
 - Figma: design e prototipagem.
